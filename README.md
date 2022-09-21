@@ -15,3 +15,7 @@ Mauris sit amet odio urna. Mauris cursus eu dolor quis lacinia. Curabitur id nul
 
 ## Section - Kevin Huang 
  Suris tortor ligula, lacinia quis velit vitae, aliquam dignissim lectus. In sit amet orci eget dolor ullamque felis. Ut et arcu dictum, commodo lorem vel, porttitor nulla. Integer sapien mauris, tempus ac finibus vel, varius at nibh. Mauris mattis non dolor sit amet efficitur. Aenean vulputate pharetra sem, tincidunt dignissim blandit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur enim augue, elementum et nibh eu, vehicula feugiat tortor. Vivamus ut lobortis ligula.
+
+## Section - LYDIA HE
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
